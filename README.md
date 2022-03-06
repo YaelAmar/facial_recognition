@@ -31,3 +31,8 @@ https://www.kaggle.com/kpvisionlab/tufts-face-database
 מאגר גדול מאוד של תמונות פנים מכל הגילאים הגזעים והסוגים
 https://www.kaggle.com/ciplab/real-and-fake-face-detection
 
+https://research.google/tools/datasets/google-facial-expression/
+
+https://www.kaggle.com/drgilermo/face-images-with-marked-landmark-points
+
+https://www.kaggle.com/selfishgene/youtube-faces-with-facial-keypoints

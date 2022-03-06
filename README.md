@@ -20,6 +20,9 @@ https://opensourcelibs.com/libs/face-recognition - זיהוי פנים
 פייתון - ספריה שעושה הכל
 https://github.com/ageitgey/face_recognition
 
+
+
+https://analyticsindiamag.com/10-face-datasets-to-start-facial-recognition-projects/
 dataset של תמונות פנים
 
 יש להירשם קודם בקובץ שיורד לפתוח בויז'ואל סטודיו וללחוץ על הקישור, למלא את הטופס

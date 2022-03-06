@@ -20,3 +20,11 @@ https://opensourcelibs.com/libs/face-recognition - זיהוי פנים
 פייתון - ספריה שעושה הכל
 https://github.com/ageitgey/face_recognition
 
+dataset של תמונות פנים
+
+יש להירשם קודם בקובץ שיורד לפתוח בויז'ואל סטודיו וללחוץ על הקישור, למלא את הטופס
+https://www.kaggle.com/kpvisionlab/tufts-face-database
+
+מאגר גדול מאוד של תמונות פנים מכל הגילאים הגזעים והסוגים
+https://www.kaggle.com/ciplab/real-and-fake-face-detection
+
